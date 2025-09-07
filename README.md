@@ -1,4 +1,4 @@
-This was a personal project I did for fun. My blog that I started in 2012 is still public, however, there are not many posts. The blog is in Latvian. I wrote the code with a help of Gemnini 2.5 pro to webscrape my blog and train a model on 26 posts. The posts are written by me, so I wanted to see how well my model can reproduce my style of writing. Obviously training data is not enough to yield meaningful results, however I had a lot of fun a laughed a lot during this project.
+This was a personal project I did for fun. My blog that I started in 2012 is still public, however, there are not many posts. The blog is in Latvian. I wrote the code with a help of Gemnini 2.5 pro to webscrape my blog and train a model on 26 posts. The posts are written by me, so I wanted to see how well my model can reproduce my style of writing. Obviously training data is not enough to yield meaningful results, however I had a lot of fun and laughed a lot during this project.
 
 Some of the results for a prompt "Man tiešām ļoti patīk.":
 -- Model is ready to generate text! ---
